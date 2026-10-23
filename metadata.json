@@ -1,0 +1,6 @@
+{
+  "name": "REALTRADE VIEW — Pro Trading Terminal & Portfolio Platform",
+  "description": "Institutional-grade trading terminal with real-time multi-asset analytics, technical indicators, broker paper execution, live world market map, biometric security, and encrypted offline-first portfolio management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

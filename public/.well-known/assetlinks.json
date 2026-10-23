@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.realtrade.view",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7F:02:CD:34:60:5F:62:EB:67:53:E2:4B:38:4F:7B:64:99:99:CB:1F:B5:20:4B:3E:64:D2:12:4A:22"
+      ]
+    }
+  }
+]
